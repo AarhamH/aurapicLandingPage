@@ -6,18 +6,13 @@ export const Team = (props) => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
         </div>
         <div id="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                <div key={`${d.name}-${i}`} className="col-md-4">
                   <div className="thumbnail">
                     {" "}
-                    <img src={d.img} alt="..." className="team-img" />
                     <div className="caption">
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
@@ -28,6 +23,20 @@ export const Team = (props) => {
             : "loading"}
         </div>
       </div>
+        <div className="col-md-8 col-md-offset-2 section-title">
+        </div>
+        <div className="col-md-8 col-md-offset-2 section-title">
+          <a
+            href="#features"
+            className="btn btn-custom btn-lg page-scroll"
+          >
+            Download auraPic
+          </a>{" "}
+
+        <div className="col-md-8 col-md-offset-2 section-title">
+        </div>
+        </div>
     </div>
   );
 };
+

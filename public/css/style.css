@@ -76,7 +76,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #0e2f78;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -84,13 +84,13 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #fff;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -208,8 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: #4A607BFF;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
