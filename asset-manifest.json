@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auraPic/static/css/main.ae42ac5f.css",
+    "main.js": "/auraPic/static/js/main.32739751.js",
+    "index.html": "/auraPic/index.html",
+    "main.ae42ac5f.css.map": "/auraPic/static/css/main.ae42ac5f.css.map",
+    "main.32739751.js.map": "/auraPic/static/js/main.32739751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.32739751.js"
+  ]
+}
