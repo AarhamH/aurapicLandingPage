@@ -3,6 +3,16 @@
     "title": "Welcome to auraPic",
     "paragraph": "A mobile design builder"
   },
+  "Threads": [
+    {
+      "title": "UI",
+      "thread": "img/portfolio/bgthread.png"
+    },
+    {
+      "title": "Background",
+      "thread": "img/portfolio/uithread.png"
+    }
+  ],
   "Gallery": [
     {
       "title": "Home",
@@ -12,12 +22,14 @@
     {
       "title": "Photo Input",
       "largeImage": "img/portfolio/color_grid.png",
-      "smallImage": "img/portfolio/color_grid.png"
+      "smallImage": "img/portfolio/color_grid.png",
+      "bgThread": "img/portfolio/bgthread.png"
     },
     {
       "title": "Studio",
       "largeImage": "img/portfolio/studio.png",
-      "smallImage": "img/portfolio/studio.png"
+      "smallImage": "img/portfolio/studio.png",
+      "uiThread": "img/portfolio/uithread.png"
     }
   ],
   "Team": [

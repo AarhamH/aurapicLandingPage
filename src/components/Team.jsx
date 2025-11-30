@@ -30,7 +30,7 @@ export const Team = (props) => {
             href="https://www.dropbox.com/scl/fi/p4zx9y45u6x2ljddumggu/auraPic.apk?rlkey=gbx85918yp80g6gvqeq81qzlw&st=f520r011&dl=0"
             className="btn btn-custom btn-lg page-scroll"
           >
-            Download auraPic
+            APK download here
           </a>
           <a
             href="https://www.dropbox.com/scl/fi/l379229x65mc8hjee1zcm/cmpt-362-project.zip?rlkey=sn4osotxtm7wesbsrfjyqacyh&st=vdkjipv3&dl=0"

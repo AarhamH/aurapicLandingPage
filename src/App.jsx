@@ -4,6 +4,7 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/Team";
+import { Threads } from "./components/threads";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -27,6 +28,7 @@ const App = () => {
       <About data={landingPageData.About} />
       <Features data={landingPageData.Features} />
       <Gallery data={landingPageData.Gallery} />
+      <Threads data={landingPageData.Threads} />
       <Team data={landingPageData.Team} />
     </div>
   );
