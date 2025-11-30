@@ -27,11 +27,16 @@ export const Team = (props) => {
         </div>
         <div className="col-md-8 col-md-offset-2 section-title">
           <a
-            href="../data/auraPic.apk"  // path to the file in your repo
+            href="https://www.dropbox.com/scl/fi/p4zx9y45u6x2ljddumggu/auraPic.apk?rlkey=gbx85918yp80g6gvqeq81qzlw&st=f520r011&dl=0"
             className="btn btn-custom btn-lg page-scroll"
-            download
           >
             Download auraPic
+          </a>
+          <a
+            href="https://www.dropbox.com/scl/fi/l379229x65mc8hjee1zcm/cmpt-362-project.zip?rlkey=sn4osotxtm7wesbsrfjyqacyh&st=vdkjipv3&dl=0"
+            className="btn btn-custom btn-lg page-scroll"
+          >
+            Download ZIP
           </a>
         </div>
         <div className="col-md-8 col-md-offset-2 section-title">
