@@ -17,7 +17,7 @@ export const Threads = (props) => {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-2 col-lg-2"
+                    className="col-sm-6 col-md-8 col-lg-8"
                   >
                     <Image
                       title={d.title}
