@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aurapicLandingPage/static/css/main.ae42ac5f.css",
-    "main.js": "/aurapicLandingPage/static/js/main.6d861c01.js",
+    "main.js": "/aurapicLandingPage/static/js/main.2a03355b.js",
     "index.html": "/aurapicLandingPage/index.html",
     "main.ae42ac5f.css.map": "/aurapicLandingPage/static/css/main.ae42ac5f.css.map",
-    "main.6d861c01.js.map": "/aurapicLandingPage/static/js/main.6d861c01.js.map"
+    "main.2a03355b.js.map": "/aurapicLandingPage/static/js/main.2a03355b.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.6d861c01.js"
+    "static/js/main.2a03355b.js"
   ]
 }
