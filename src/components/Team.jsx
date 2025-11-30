@@ -27,14 +27,14 @@ export const Team = (props) => {
         </div>
         <div className="col-md-8 col-md-offset-2 section-title">
           <a
-            href="#features"
+            href="../data/auraPic.apk"  // path to the file in your repo
             className="btn btn-custom btn-lg page-scroll"
+            download
           >
             Download auraPic
-          </a>{" "}
-
-        <div className="col-md-8 col-md-offset-2 section-title">
+          </a>
         </div>
+        <div className="col-md-8 col-md-offset-2 section-title">
         </div>
     </div>
   );
