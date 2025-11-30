@@ -6,7 +6,7 @@ export const Threads = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Threaded Diagrams</h2>
+          <h2>Thread Diagrams</h2>
           <p>
             Our app architecture
           </p>
