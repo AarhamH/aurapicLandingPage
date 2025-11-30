@@ -6,9 +6,9 @@ export const Threads = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Threaded Diagrams</h2>
           <p>
-            Here is a showcase of some of our work
+            Our app architecture
           </p>
         </div>
         <div className="row">
@@ -17,7 +17,7 @@ export const Threads = (props) => {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
+                    className="col-sm-6 col-md-2 col-lg-2"
                   >
                     <Image
                       title={d.title}
