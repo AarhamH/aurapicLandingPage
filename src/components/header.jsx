@@ -31,6 +31,12 @@ export const Header = (props) => {
                 >
                  Show and Tell #2 
                 </a>{" "}
+                <a
+                  href="https://www.youtube.com/watch?v=DknOAvMYFgQ"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                 Final Demo 
+                </a>{" "}
               </div>
             </div>
           </div>
