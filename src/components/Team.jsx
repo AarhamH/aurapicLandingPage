@@ -33,7 +33,7 @@ export const Team = (props) => {
             APK download here
           </a>
           <a
-            href="https://www.dropbox.com/scl/fi/l379229x65mc8hjee1zcm/cmpt-362-project.zip?rlkey=sn4osotxtm7wesbsrfjyqacyh&st=vdkjipv3&dl=0"
+            href="https://www.dropbox.com/scl/fi/uo3plhg78vuhdhbjyra68/cmpt-362-project.zip?rlkey=wewul1fvltvqtmaktmqan0qll&st=56xyx9k9&dl=0"
             className="btn btn-custom btn-lg page-scroll"
           >
             Download ZIP
