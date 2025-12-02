@@ -27,13 +27,13 @@ export const Team = (props) => {
         </div>
         <div className="col-md-8 col-md-offset-2 section-title">
           <a
-            href="https://www.dropbox.com/scl/fi/p4zx9y45u6x2ljddumggu/auraPic.apk?rlkey=gbx85918yp80g6gvqeq81qzlw&st=f520r011&dl=0"
+            href="https://www.dropbox.com/scl/fi/nykevrvkij9q1wmbek7f3/auraPic.apk?rlkey=rg18eq1ewrd4wdzmpnv9eh6gc&st=xbr2s9z1&dl=0"
             className="btn btn-custom btn-lg page-scroll"
           >
             APK download here
           </a>
           <a
-            href="https://www.dropbox.com/scl/fi/uo3plhg78vuhdhbjyra68/cmpt-362-project.zip?rlkey=wewul1fvltvqtmaktmqan0qll&st=56xyx9k9&dl=0"
+            href="https://www.dropbox.com/scl/fi/oyf3i0wpttds6j85g7uk2/cmpt-362-project.zip?rlkey=o0igoxwohkgixjvqzs0sm2pat&st=8wvna34s&dl=0"
             className="btn btn-custom btn-lg page-scroll"
           >
             Download ZIP
