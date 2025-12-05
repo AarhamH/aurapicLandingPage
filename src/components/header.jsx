@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="https://www.youtube.com/watch?v=DknOAvMYFgQ"
+                  href="https://drive.google.com/file/d/1P8m4YOTYvL8rRE7Iy9ROur5P67xYOU8x/view"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                  Final Demo 
